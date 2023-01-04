@@ -37,7 +37,7 @@ nav{
     justify-content: space-around;
     padding: 0px 30px;
     background-color:#fff;
-    box-shadow: 2px 2px 20px rgba(255, 151, 103, 0.164);
+    box-shadow: 2px 2px 20px rgba(255, 151, 103,);
     z-index: 1;
     width:100%;
     position: fixed;
