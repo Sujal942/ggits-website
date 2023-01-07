@@ -13,7 +13,7 @@ To centralize all college related announcements, information and resources.
 ********** ARYAN JAIN*********** GITHUB - @gitsofaryan***********
  
  
- 
+ website live :- https://sujal942.github.io/ggits-website/
  
  
  
